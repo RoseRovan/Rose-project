@@ -137,3 +137,28 @@
     font-size: 20px;
     color: #2549d3;
   }
+
+  /* OUR PRODUCTS */
+  .products-heading {
+    color: #0F298B;
+    text-align: left;
+    width: 100%;
+    margin-left: 8%;
+    font-size: 45px;
+    letter-spacing: 2px;
+  }
+   .product-subheading {
+    text-align: center;
+    font-size: 35px;
+    color: #0F298B;
+    letter-spacing: 2px;
+    width: 100%;
+
+   }
+   .product-text{
+    text-align: center;
+    font-size: 25px;
+    width: 100%;
+    color: black;
+
+   }
