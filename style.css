@@ -90,10 +90,11 @@
   .custom-button{
     color: white;
     background-color: #2549d3;
-    border-radius: 10px;
-    padding: 10px;
+    border-radius: 12px;
+    padding: 15px;
     border-color: transparent;
     text-align: center;
+    
   }
   .section2{
     width: 43%;
@@ -108,7 +109,7 @@
     flex-direction: row;
   }
   .play-button{
-    margin-left: 30px;
+    margin-left: 60px;
   }
   .search-product{
     width: 100%;
