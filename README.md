@@ -1,22 +1,46 @@
  {Rose Project}
+ ## Table of Contents
+
+ [Author]()
+
+ [Description]()
+
+ [Setup/installation]()
+
+ [Contribution]()
+
+ [support and contact details]()
+
+ [Technology used]()
+
+ [Run locally]()
+
+ [Reference]()
+
+ [License]()
+
+ [Copy rights]()
+
+
+
  author{RoseRovqn}(Rhttps://github.com/RoseRovan/Rose-project)
-#### By **{contributions are always welcome!}**
+#### **{contributions are always welcome!}**
 ## Description
-This is a website that shows my project as a student at Moringa School.It contains a landing page of a real estate website.
+This is a website that shows my first project as a student at Moringa School.It contains a landing page of a real estate website.
 ## Setup/Installation Requirements
 Requirements
 Either a computer,phone,tablet or an Ipad
 
 An access to the Internet
 
-Installation Process
-Go Back to the top
+# Rclearun locally
+
 
 ## Support and contact details
-{For support, email rosemary.kimani@morinaschool.com or join our Slack channel.}
+{For support, email rosemary.kimani@moringaschool.com or join our Slack channel.}
 
 ## Technology Used
-HTNL - which was used to build the structure of the pages.
+HTML - which was used to build the structure of the pages.
 
 CSS - which was used to style the pages incuding the left aside navigation bar
 

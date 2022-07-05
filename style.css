@@ -160,5 +160,34 @@
     font-size: 25px;
     width: 100%;
     color: black;
-
    }
+
+.how-it-works{
+  width: 100%;
+  margin-left: 10%;
+  margin-top: 2rem;
+  height: 200px;
+  flex-direction: row;
+  display: flex;
+
+}
+.findHome{
+  width: 30%;
+  margin-right: 4%;
+  background-color: white;
+  font-size: 17px;
+  text-align: center;
+}
+.makePayment{
+  width: 40%;
+  margin-right: 4%;
+  background-color: white;
+  font-size: 17px;
+  text-align: center;
+}
+.make-official{
+  width: 30%;
+  background-color: white;
+  font-size: 17px;
+  text-align: center;
+}
