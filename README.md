@@ -1,8 +1,6 @@
  {Rose Project}
  ## Table of Contents
 
- [Author]()
-
  [Description]()
 
  [Setup/installation]()
@@ -13,7 +11,6 @@
 
  [Technology used]()
 
- [Run locally]()
 
  [Reference]()
 
@@ -22,9 +19,16 @@
  [Copy rights]()
 
 
+ [Author]()
 
+
+
+ ## author
  author{RoseRovqn}(Rhttps://github.com/RoseRovan/Rose-project)
-#### **{contributions are always welcome!}**
+ Slack Profile - Rosemary Kimani
+
+Linked - Rose Rovan
+## {contributions are always welcome!}**
 ## Description
 This is a website that shows my first project as a student at Moringa School.It contains a landing page of a real estate website.
 ## Setup/Installation Requirements
@@ -32,9 +36,6 @@ Requirements
 Either a computer,phone,tablet or an Ipad
 
 An access to the Internet
-
-# Rclearun locally
-
 
 ## Support and contact details
 {For support, email rosemary.kimani@moringaschool.com or join our Slack channel.}
