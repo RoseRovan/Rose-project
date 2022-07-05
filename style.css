@@ -161,7 +161,18 @@
     width: 100%;
     color: black;
    }
-
+  .select-items{
+    width: 100%;
+    height: auto;
+    text-align: center;
+    flex-direction: row
+    display: flex;
+    
+  }
+  .location{
+    width: 30%;
+    
+  }
 .how-it-works{
   width: 100%;
   margin-left: 10%;
