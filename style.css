@@ -166,7 +166,7 @@
   width: 100%;
   margin-left: 10%;
   margin-top: 2rem;
-  height: 200px;
+  height: 400px;
   flex-direction: row;
   display: flex;
 
@@ -174,20 +174,71 @@
 .findHome{
   width: 30%;
   margin-right: 4%;
-  background-color: white;
+  background-color: #FAFAFA;
   font-size: 17px;
   text-align: center;
 }
 .makePayment{
   width: 40%;
   margin-right: 4%;
-  background-color: white;
+  background-color: #FAFAFA;
   font-size: 17px;
   text-align: center;
 }
 .make-official{
   width: 30%;
-  background-color: white;
+  background-color: #FAFAFA;
   font-size: 17px;
   text-align: center;
 }
+/* DEAR ESTEEMED CUSTOMER SECTION START*/
+.sec3 {
+  width: 100%;
+  flex-direction: row;
+  display: flex;
+  margin-left: 10%;
+}
+.esteemedCustomer {
+  color: #0f298b;
+  width: 100%;
+  font-size: 22px;
+  text-align: center;
+}
+.subText {
+  color: black;
+  font-size: 17px;
+  text-align: center;
+}
+.secText {
+  width: 25%;
+  background-color: #FAFAFA;
+  margin-right: 5%;
+}
+.viewMore {
+  background-color: #2549d3;
+  float: right;
+  padding: 10px;
+  border-radius: 15px;
+  color: white;
+  border-color: transparent;
+  margin-right: 5rem;
+  margin-top: 1rem;
+}
+/* DEAR ESTEEMED CUSTOMER SECTION END*/
+/* FOOTER SECTION START*/
+.footer {
+  width: 100%;
+  flex-direction: row;
+  display: flex;
+  margin-right: 3rem;
+  background-color: #2549D3;
+  margin-top: 4rem;
+  color: white;
+}
+.footerBox {
+
+  margin-left: 10%;
+  width: 20%;
+  margin-left: 5%;
+}
+/* FOOTER SECTION END*/
